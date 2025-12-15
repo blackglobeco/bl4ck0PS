@@ -9,8 +9,8 @@
    ```
 
 2. Run the application:
-   - Linux: `./start_pano.sh`
-   - Windows: `start_pano.bat`
+   - Linux: `./start_blackai.sh`
+   - Windows: `start_blackai.bat`
 
 The startup script will automatically:
 - Check for updates
